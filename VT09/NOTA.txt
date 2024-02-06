@@ -1,0 +1,10 @@
+El fallo por el que no funcionaba era porque espacios en blanco y los comentarios en el fichero del servidor.
+He estado buscando info y parece ser que el XML se crea con algún caracter raro si hay espacios en blanco fuera del código PHP, algún echo, comentarios... Seguiré buscando alguna solución que seguro que hay algo más sencillo que todas las cosas tan complicadas que he visto para arreglarlo.
+
+Fijaros de toda forma que la construcción del servidor acaba siendo muy sencilla:
+- Tenemos un fichero para la conexión de la base de datos.
+- Tenemos otros para la gestión de los métodos disponibles, en este caso mediante una Clase, pero podrían ser funciones.
+- Tenemos el SOAPServer para dar servicio a los que se conecten.
+- Y ya nos conectamos desde el cliente y hacemos uso de las funciones disponibles. La diferencia a lo que hemos hecho hasta ahora es que ya no estamos enviando información o cargandola con includes/require, nos conectamos a un servidor concreto para que trabaje por nosotros.
+
+Una alternativa al uso de la clase podría ser la utilización directamente de funciones y en lugar de añadier la clase con setClass y añadiendo cada función con addFunction: https://www.php.net/manual/es/soapserver.addfunction.php
