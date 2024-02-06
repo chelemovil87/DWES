@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diario>
+  <ultimaActualizacion>04-05-2022</ultimaActualizacion>
+  <noticias>
+    <noticia>
+      <titulo>El pan sube</titulo>
+      <cuerpo>Cada vez el pan está más caro</cuerpo>
+      <autor>David</autor>
+    </noticia>
+    <noticia>
+      <titulo>LoL</titulo>
+      <cuerpo>lol</cuerpo>
+      <autor>lol</autor>
+    </noticia>
+    <noticia>
+      <titulo>LoL</titulo>
+      <cuerpo>lol</cuerpo>
+      <autor>lol</autor>
+    </noticia>
+    <noticia>
+      <titulo>lol2</titulo>
+      <cuerpo>lol2</cuerpo>
+      <autor>lol2</autor>
+    </noticia>
+    <noticia>
+      <titulo>lol3</titulo>
+      <cuerpo>lol3</cuerpo>
+      <autor>lol3</autor>
+    </noticia>
+    <noticia>
+      <titulo>lol3</titulo>
+      <cuerpo>lol3</cuerpo>
+      <autor>lol3</autor>
+    </noticia>
+    <noticia>
+      <titulo>24234</titulo>
+      <cuerpo>24234</cuerpo>
+      <autor>24234</autor>
+    </noticia>
+    <noticia>
+      <titulo>Hoy es miércoles </titulo>
+      <cuerpo>Estamos en clase de Seervidor</cuerpo>
+      <autor>David M </autor>
+    </noticia>
+    <noticia>
+      <titulo>Hoy es miércoles </titulo>
+      <cuerpo>Estamos en clase de Seervidor</cuerpo>
+      <autor>David M </autor>
+    </noticia>
+    <noticia>
+      <titulo>La semana que vien es puente</titulo>
+      <cuerpo>No tenemos clase</cuerpo>
+      <autor>Qué bien</autor>
+    </noticia>
+    <noticia>
+      <titulo>Doctor Extraño</titulo>
+      <cuerpo>Se estrena el viernes</cuerpo>
+      <autor>David</autor>
+    </noticia>
+    <noticia>
+      <titulo>Spiderman</titulo>
+      <cuerpo>Spiderman estaba bien</cuerpo>
+      <autor>Medrano</autor>
+    </noticia>
+    <noticia>
+      <titulo>Moon Knight</titulo>
+      <cuerpo>Es corta</cuerpo>
+      <autor>David M</autor>
+    </noticia>
+    <noticia>
+      <titulo>Hoy es miércoles </titulo>
+      <cuerpo>lol3</cuerpo>
+      <autor>David M</autor>
+    </noticia>
+    <noticia>
+      <titulo>LoL</titulo>
+      <cuerpo>lol</cuerpo>
+      <autor>David M</autor>
+    </noticia>
+  </noticias>
+</diario>
